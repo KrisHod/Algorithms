@@ -1,6 +1,13 @@
 # CodingChallenges
 Practice Coding Challenges
 
+Test1
+
+Maximum Possible Value
+
+Write a function solution that, given an integer N, returns the maximum possible value obtained by inserting one '5' digit inside the decimal representation of integer N.
+****************
+
 Test3
 
 Given an integer n, return a string array answer (1-indexed) where:
