@@ -9,7 +9,7 @@ import java.util.Map;
 // -> “Hi, I am Ara Livingstone”
 //public String renderTemplate(String template, Map<String, String>     variables) {}
 
-public class main {
+public class Test1 {
 
     public static String renderTemplate(String template, Map <String,String> variables){
         while (template.contains("{{")) {
