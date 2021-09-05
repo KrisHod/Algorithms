@@ -15,8 +15,7 @@ They do not have to be contiguous in the second string but order must be maintai
 For example, given the string "I like cheese", the words "I cheese" are a subsequence of that string.   
 Words are space delimited.
 
-Function Parameter
-
+Function Paramete
 You are given a function missingWords that takes the strings S and T as its arguments.
 
  
@@ -52,6 +51,14 @@ answer[i] == "Buzz" if i is divisible by 5.
 
 answer[i] == i if non of the above conditions are true.
 ****************
+
+Test4
+
+Math Challenge
+Have the function MathChallenge(num) take the num parameter being passed which will always be a positive integer and return its additive persistence which is the number of times you must add the digits in num until you reach a single digit. 
+
+For example: if num is 2718 then your program should return 2 because 2+7+1+8 =18 and 1+8 =9.
+**************
 
 Test5
 Write a function that reverses a string. The input string is given as an array of characters s.
